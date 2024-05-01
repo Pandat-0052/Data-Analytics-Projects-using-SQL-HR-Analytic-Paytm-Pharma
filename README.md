@@ -1,9 +1,8 @@
-
 # <p align ="center"> Data Analytics Projects using SQL  #HRAnalytics  #Paytm #Pharma
 
 ## Project 1: HR Analytics
 
-# <p align ="center">![Pic](https://github.com/Pandat-0052/Diabetes-Data-Analysis-using-SQL/blob/main/Capture.JPG)</p>
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/HR.JPG)</p>
 
 ### Project Overview
 
@@ -23,11 +22,13 @@ In this project, I conducted an in-depth analysis of employee data using SQL to 
 
 ### Resources:
 
-- [SQL Queries](link_to_sql_queries)
-- [PDF Report](link_to_pdf_report)
-- [Raw Data](link_to_raw_data)
+- [SQL Queries](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/HR.sql)
+- [PDF Report](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/HR%20DATA.pdf)
+- [Raw Data](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/General%20Data.xlsx)
 
 ## Project 2: Pharma Analytics
+
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/Pharma.JPG)</p>
 
 ### Project Overview
 
@@ -48,11 +49,13 @@ In this project, I analyzed pharmaceutical sales data using SQL to identify popu
 
 ### Resources:
 
-- [SQL Queries](link_to_sql_queries)
-- [PDF Report](link_to_pdf_report)
-- [Raw Data](link_to_raw_data)
+- [SQL Queries](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/Pharma.sql)
+- [PDF Report](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/Pharma.pdf)
+- [Raw Data](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/Pharma_data_analysis__.xlsm)
 
 ## Project 3: Paytm Analytics
+
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/Paytm.JPG)</p>
 
 ### Project Overview
 
@@ -71,9 +74,9 @@ In this project, I explored how to use SQL to analyze Paytm e-purchase data. I l
 
 ### Resources:
 
-- [SQL Queries](link_to_sql_queries)
-- [PDF Report](link_to_pdf_report)
-- [Raw Data](link_to_raw_data)
+- [SQL Queries](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/Paytm.sql)
+- [PDF Report](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/Paytm.pdf)
+- [Raw Data](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/Paytm%20Epurchase%20data.csv)
 
 ## Feedback
 
